@@ -3,7 +3,7 @@ from pytube import YouTube
 import instaloader
 import os
 
-TOKEN = "BU_YERGA_SIZNING_TOKEN"
+TOKEN = "8209100928:AAFzFsG7bfBkt-rKG7ObE0UAQQuggq8llWY"
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
